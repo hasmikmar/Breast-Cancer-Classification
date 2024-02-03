@@ -26,7 +26,6 @@ Number of samples:569, number of features:32
 - Model selection
 - Deployment
   You can see this all [breast-cancer folder](https://github.com/hasmikmar/MLE/tree/main/breast_cancer). 
-#### $\text{The workflow}$
 
 <center><img src="https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/pipeline.png?raw=true" width="800px" style="width:800px" /></center>
 
