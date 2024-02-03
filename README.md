@@ -24,6 +24,7 @@ Number of samples:569, number of features:32
 - Modelling
 - Model selection
 - Deployment
+  You can see this all [breast-cancer folder](https://github.com/hasmikmar/MLE/tree/main/breast_cancer). 
 
 We have tried different classification algorithms these are the top 3: GradientBoosting, RandomForest, AdaBoost. The best performed RandomForest.
               
