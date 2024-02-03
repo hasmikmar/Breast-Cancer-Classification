@@ -53,6 +53,11 @@ Our deployment strategy involves utilizing Flask as the web framework for creati
     - Google Cloud Storage is utilized for storing and managing the input medical data that users upload for classification.
     - It makes model publicly available.
 
+If you want run local do this steps 
+
+- cd deployment 
+- python3 app.py
+- click [Running on](http://127.0.0.1:5000)
 # Demo
 You can access to our app in this [link](https://mleproject-408120.an.r.appspot.com/).
 
