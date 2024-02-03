@@ -17,6 +17,7 @@ Number of samples:569, number of features:32
 - So we have data of patients with breast cancer
 - Our goal is to predict whether the cancer is benign or malignant
 
+
 # Modeling
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
@@ -25,6 +26,9 @@ Number of samples:569, number of features:32
 - Model selection
 - Deployment
   You can see this all [breast-cancer folder](https://github.com/hasmikmar/MLE/tree/main/breast_cancer). 
+#### $\text{The workflow}$
+
+<center><img src="https://github.com/Daniboy370/Machine-Learning/blob/master/Misc/Latex/Images/pipeline.png?raw=true" width="800px" style="width:800px" /></center>
 
 We have tried different classification algorithms these are the top 3: GradientBoosting, RandomForest, AdaBoost. The best performed RandomForest.
               
