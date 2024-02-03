@@ -26,8 +26,7 @@ Number of samples:569, number of features:32
 - Deployment
 
 We have tried different classification algorithms these are the top 3: GradientBoosting, RandomForest, AdaBoost. The best performed RandomForest.
--
--                        Model  Validation Score
+                  Model  Validation Score
 - 0          Logistic              94.5
 - 1               SVM              93.6
 - 2          AdaBoost              94.7
