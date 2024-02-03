@@ -26,12 +26,12 @@ Number of samples:569, number of features:32
 - Deployment
 
 We have tried different classification algorithms these are the top 3: GradientBoosting, RandomForest, AdaBoost. The best performed RandomForest.
-                  Model  Validation Score
-- 0          Logistic              94.5
-- 1               SVM              93.6
-- 2          AdaBoost              94.7
-- 3      RandomForest              95.3
-- 4  GradientBoosting              94.9
+              -  Model    Validation Score
+-            Logistic              94.5
+-             SVM              93.6
+-           AdaBoost              94.7
+-       RandomForest              95.3
+-      GradientBoosting              94.9
 
 # Deployment
 After successful model development and testing, the next crucial step is deploying the breast cancer classification model for practical use.
