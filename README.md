@@ -56,4 +56,5 @@ Our deployment strategy involves utilizing Flask as the web framework for creati
 # Demo
 You can access to our app in this [link](https://mleproject-408120.an.r.appspot.com/).
 
-
+<center><img src="https://github.com/hasmikmar/MLE/blob/main/images/img1.jpg?raw=true" width="800px" style="width:800px" /></center>
+<center><img src="https://github.com/hasmikmar/MLE/blob/main/images/img2.jpg?raw=true" width="800px" style="width:800px" /></center>
