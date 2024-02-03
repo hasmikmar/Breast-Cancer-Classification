@@ -1,4 +1,7 @@
 ## Breast Cancer Classification
+#### $\text{The Cell Nuclei in Breast Cancer patients}$
+
+<center><img src="cancer.jpg?raw=true" width="800px" style="width:800px" /></center>
 
 # Motivation
 
